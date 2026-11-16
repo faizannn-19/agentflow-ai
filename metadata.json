@@ -1,0 +1,8 @@
+{
+  "name": "AgentFlow AI",
+  "description": "Multi-agent AI orchestration workspace powered by Gemini with Orchestrator, Research, Analysis, Writer, and Reviewer agents plus human-in-the-loop publishing approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
